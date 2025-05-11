@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm SAI SRIVARDHAN REDDY LINGALA</h1>
 <h3 align="center">An enthusiastic Electronics & CSE explorer from India 🇮🇳</h3>
 
+<p align="center">
+  <img src="https://cdn.iconscout.com/lottie/premium/thumb/man-repairing-motherboard-9133197-7394949.gif" alt="Man Repairing Motherboard" width="300" />
+</p>
+
+<p align="center" style="font-size:small;">
+  <a href="https://iconscout.com/lottie-animations/man-repairing-motherboard" target="_blank">Man repairing motherboard</a> by 
+  <a href="https://iconscout.com/contributors/tanjilmah" target="_blank">Animaio Studio</a> on 
+  <a href="https://iconscout.com" target="_blank">IconScout</a>
+</p>
+
 ---
 
 ## 💫 About Me:
@@ -16,7 +26,7 @@
 **C, Arduino, Verilog, MATLAB, Embedded Systems, VLSI, DSA, IoT, Machine Learning**
 
 📝 Regular articles on: [Medium](https://medium.com/@saisrivardhanlingala)  
-💬 Ask me about: **Electronics,CSE,AI**  
+💬 Ask me about: **Electronics, CSE, AI**  
 📫 Reach me at: **saisrivardhanlingala@gmail.com**  
 ⚡ Fun fact: **I try to stay as productive as possible!**
 
@@ -68,4 +78,3 @@
 </p>
 
 ---
-
