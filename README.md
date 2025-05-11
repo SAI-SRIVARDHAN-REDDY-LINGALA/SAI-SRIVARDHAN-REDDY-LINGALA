@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAI SRIVARDHAN REDDY LINGALA</h1>
 <h3 align="center">An enthusiastic Electronics & CSE explorer from India 🇮🇳</h3>
-
----
+<img src="https://github.com/SAI-SRIVARDHAN-REDDY-LINGALA/GIFS/blob/main/Man%20repairing%20motherboard.gif?raw=true" alt="Man Repairing Motherboard" loop>
 
 ## 💫 About Me:
 🎓 I'm currently pursuing Electrical and Electronics Communication Engineering at **IIT Kharagpur**.<br>
