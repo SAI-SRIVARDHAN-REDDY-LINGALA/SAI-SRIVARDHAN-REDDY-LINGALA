@@ -28,7 +28,7 @@
 
 <p align="left">
 <a href="https://x.com/lingalavardhan" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-<a href="https://linkedin.com/in/sai srivardhan reddy lingala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sai-sri-vardhan-lingala/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@saisrivardhanlingala" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
 <a href="mailto:saisrivardhanlingala@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/srivardhan-reddy-lingala" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
