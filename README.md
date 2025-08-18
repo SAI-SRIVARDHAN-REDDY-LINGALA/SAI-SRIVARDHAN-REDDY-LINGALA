@@ -1,25 +1,23 @@
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; text-align: center;">
   <h1>Hi 👋, I'm SAI SRIVARDHAN REDDY LINGALA</h1>
-  <h3>An enthusiastic Electronics & CSE explorer from India 🇮🇳</h3>
+  <h3>An enthusiastic Electronics & Computer Science explorer from India 🇮🇳</h3>
   <img src="https://github.com/SAI-SRIVARDHAN-REDDY-LINGALA/GIFS/blob/main/Man%20repairing%20motherboard.gif?raw=true" alt="Man Repairing Motherboard" style="width: 300px; height: auto;">
 </div>
 
 
 ## 💫 About Me:
 🎓 I'm currently pursuing Electrical and Electronics Communication Engineering at **IIT Kharagpur**.<br>
-🔍 I’m passionate about **Electronics, CSE, AI, Machine Learning, and Probability Theory**.<br>
+🔍 I’m passionate about **Electronics, Computer Science, AI, Machine Learning, and Probability Theory**.<br>
 🧠 I enjoy solving problems, designing circuits, and creating impactful tech solutions.<br>
-📽️ Outside of tech, I enjoy watching movies, cricket, productive videos, and tech podcasts.<br>
+📽️ Outside of tech, I enjoy watching movies, cricket,football (Siu.....) , productive videos, and tech podcasts.<br>
 🚀 Always eager to learn, grow, and contribute to the tech community.
 
 ---
 
-### 🌱 Currently Learning:
-**C, Arduino, Verilog, MATLAB, Embedded Systems, VLSI, DSA, IoT, Machine Learning**
-
-📝 Regular articles on: [Medium](https://medium.com/@saisrivardhanlingala)  
-💬 Ask me about: **Electronics,CSE,AI**  
-📫 Reach me at: **saisrivardhanlingala@gmail.com**  
+📝 Regular articles on: [Medium](https://medium.com/@saisrivardhanlingala)   <br>
+🎓 I post daily on : [Linkedin](https://www.linkedin.com/in/sai-sri-vardhan-lingala/) <br>
+💬 Ask me about: Electronics <br>
+📫 Reach me at: **saisrivardhanlingala@gmail.com**  <br>
 ⚡ Fun fact: **I try to stay as productive as possible!**
 
 ---
@@ -39,23 +37,26 @@
 ---
 
 ## 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-orange?logo=mathworks&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Verilog](https://img.shields.io/badge/Verilog-DC143C?style=flat&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
+![Matlab](https://img.shields.io/badge/Matlab-orange?logo=mathworks&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/seaborn-579ACA?style=flat&logo=seaborn&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) 
+![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-579ACA?style=flat&logo=seaborn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+
 
 ---
 
