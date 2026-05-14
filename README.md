@@ -15,16 +15,10 @@
 I am an undergraduate Electronics and Communication Engineering student at **IIT Kharagpur** with strong interests in:
 
 - Digital ASIC Design
-- RTL Microarchitecture
-- FPGA Design & Implementation
-- Pipelined Digital Systems
-- Timing & PPA-Aware Design
-- SoC-Level Architecture
-- Communication System Hardware
-- FPGA → ASIC Design Transition
-- Embedded & Mixed-Signal Hardware Interfaces
-- Hardware Acceleration Systems
-- Low-Power & High-Performance Digital Design
+- RTL Design & Verification
+- FPGA Design
+- Communication Hardware
+- Analog & Mixed-Signal Electronics
 
 My focus is on understanding how real digital systems are architected, implemented, timed, verified, and integrated with hardware.
 
@@ -70,15 +64,19 @@ Academic exposure includes:
 - Digital Electronics
 - Analog Electronics
 - Semiconductor Devices
+- VLSI Design
+- CMOS Digital Circuit Design
+- Static Timing Analysis (STA)
+- Computer Architecture
 - Signals & Systems
 - Communication Systems
+- Digital Communication
 - Digital Signal Processing
 - Probability & Statistics
 - Electromagnetics
 - Control Systems
 - Numerical Methods
 - Optimization & Linear Algebra
-
 ---
 
 ## Hardware & RTL Concepts Explored
@@ -217,12 +215,8 @@ System-Level Digital Design
 
 I regularly share:
 
-- FPGA learning notes
-- RTL architecture concepts
-- Digital design insights
 - Hardware engineering discussions
 - Semiconductor & ASIC learning
-- Communication system concepts
 
 through:
 
