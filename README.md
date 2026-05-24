@@ -1,8 +1,10 @@
 <div align="center">
 
-# SAI SRIVARDHAN REDDY LINGALA
+# Sai Srivardhan Lingala
 
-### Electronics & Computer Engineering Student | FPGA • RTL • Digital ASIC • Embedded Systems
+### Electronics & Communication Engineering Undergraduate @ IIT Kharagpur
+
+#### Digital ASIC Design • RTL Design & Verification • FPGA Development • Computer Architecture • Communication Systems
 
 <img src="https://github.com/SAI-SRIVARDHAN-REDDY-LINGALA/GIFS/blob/main/Man%20repairing%20motherboard.gif?raw=true" width="320"/>
 
@@ -12,171 +14,85 @@
 
 ## About Me
 
-I am an undergraduate Electronics and Communication Engineering student at **IIT Kharagpur** with strong interests in:
+I am an Electronics & Communication Engineering undergraduate at **IIT Kharagpur** with strong interests in designing and understanding digital hardware systems from architecture to implementation.
+
+My primary areas of interest include:
 
 - Digital ASIC Design
 - RTL Design & Verification
-- FPGA Design
+- FPGA-Based System Design
 - Communication Hardware
 - Analog & Mixed-Signal Electronics
+- Embedded Systems
 
-My focus is on understanding how real digital systems are architected, implemented, timed, verified, and integrated with hardware.
+I enjoy working on engineering problems involving:
 
-I enjoy working on problems involving:
+- Digital Architectures
+- RTL Development
+- Timing Analysis
+- Verification Methodologies
+- Communication Protocols
+- FPGA Prototyping
+- Hardware-Software Integration
 
-```text
-Architecture + RTL + Timing + Protocols + Real Hardware
-```
+Currently exploring:
 
-I actively document my learning journey through:
-
-- LinkedIn technical posts
-- Medium articles
-- FPGA/RTL notes
-- Hardware architecture explorations
-- Communication protocol learning
-
----
-
-## Current Technical Interests
-
-- RTL Design & Verification
-- FPGA System Design
-- Digital Microarchitecture
-- Pipeline Design
-- Timing Closure Awareness
-- Communication Protocol Hardware
-- Memory Architectures
-- Hardware Accelerators
-- DSP Hardware Architectures
-- ASIC Design Flow Curiosity
-- Embedded Hardware Systems
+- ASIC Design Flow
+- Advanced Verilog/SystemVerilog
+- Computer Architecture
+- FPGA Networking Systems
+- Digital Communication Systems
+- Hardware Acceleration Architectures
 
 ---
 
 ## Education
 
-### Indian Institute of Technology Kharagpur  
-**B.Tech – Electronics & Communication Engineering**
-
-Academic exposure includes:
-
-- Digital Electronics
-- Analog Electronics
-- Semiconductor Devices
-- VLSI Design
-- CMOS Digital Circuit Design
-- Static Timing Analysis (STA)
-- Computer Architecture
-- Signals & Systems
-- Communication Systems
-- Digital Communication
-- Digital Signal Processing
-- Probability & Statistics
-- Electromagnetics
-- Control Systems
-- Numerical Methods
-- Optimization & Linear Algebra
----
-
-## Hardware & RTL Concepts Explored
-
-- RTL Design Methodology
-- FSM Design
-- Sequential Logic Design
-- Combinational Logic Design
-- Pipelined Architectures
-- Digital Microarchitecture
-- Timing Analysis Concepts
-- Clock Domain Crossing Basics
-- Synchronization Techniques
-- BRAM/FIFO Architectures
-- CRC & Checksum Logic
-- Error Detection & Correction Codes
-- Communication Protocol Layers
-- Streaming Data Architectures
-- Memory Timing Semantics
-- FPGA BRAM Inference
-- Parameterized RTL Design
-- Modular Hardware Design
-- Event-Driven Hardware Systems
-- Verification-Oriented RTL Thinking
+### Indian Institute of Technology Kharagpur
+**B.Tech — Electronics & Communication Engineering**
 
 ---
 
-## Communication & Embedded Systems Exposure
+## Technical Skills
 
-- Ethernet Fundamentals
-- TCP/IP Layered Architecture
-- UART Communication
-- Modbus Protocol Concepts
-- ADC Interfacing
-- Sensor Interfacing
-- Embedded Control Logic
-- Interrupt-Based Systems
-- Real-Time Digital Systems
-- Line Coding Schemes
-- Digital Modulation Concepts
-- Signal Integrity Basics
+### Hardware Design
 
----
+- Verilog HDL
+- Digital Logic Design
+- Finite State Machines (FSM)
+- RTL Design
+- FPGA Design Flow
+- Functional Verification
+- Timing Analysis
+- Waveform Debugging
 
-## DSP & Signal Processing Concepts
-
-- FIR Filter Design
-- Polyphase Architectures
-- Multi-Rate DSP Systems
-- Fixed-Point Arithmetic
-- FFT & Spectral Analysis
-- Sampling & Aliasing
-- Window Functions
-- SNR Analysis
-- Signal Reconstruction
-- MATLAB-Based DSP Modeling
-
----
-
-## VLSI & ASIC Design Exposure
-
-- CMOS Inverter Design
-- Ring Oscillator Design
-- NAND/NOR Gate Design
-- Latch & Flip-Flop Design
-- Setup & Hold Timing Concepts
-- Delay Characterization
-- Pipeline Unit Design
-- CMOS Layout Basics
-- DRC & LVS Verification
-- Post-Layout Simulation
-- Timing-Aware Design Thinking
-
----
-
-## Tools & Software
-
-### FPGA & RTL
+### FPGA Development
 
 - Xilinx Vivado
-- Verilog HDL
-- FPGA Design Flow
-- RTL Simulation
-- Waveform Debugging
+- FPGA Prototyping
+- IP Integration
+- Hardware Bring-up
 
 ### VLSI & Circuit Design
 
 - Cadence Virtuoso
 - LTspice
+- CMOS Circuit Design
+- Analog Circuit Simulation
 
-### DSP & Scientific Computing
+### Communication Systems
 
-- MATLAB
-- Simulink
+- Digital Communication
+- Signal Processing Fundamentals
+- Modulation & Detection
+- Communication Hardware
 
-### Embedded & PCB
+### Embedded Systems
 
-- KiCad
-- Arduino IDE
-- 8051 Assembly Programming
+- Arduino
+- 8051 Microcontrollers
+- Embedded C
+- Peripheral Interfacing
 
 ### Programming
 
@@ -186,68 +102,65 @@ Academic exposure includes:
 - JavaScript
 - HTML/CSS
 
-### Software & Platforms
+### Engineering Tools
 
 - Linux
 - Git
+- MATLAB
+- Simulink
+- KiCad
 - Streamlit
 
 ---
 
-## Technical Focus Areas
+## Areas of Interest
 
-```text
-RTL Design
-Microarchitecture
-FPGA Implementation
-Digital ASIC Curiosity
-Timing Awareness
-Communication Hardware
-Memory Systems
-Pipeline Architectures
-DSP Hardware
-System-Level Digital Design
-```
+- Digital ASIC Design
+- FPGA Systems
+- RTL Verification
+- Computer Architecture
+- Processor Design
+- Hardware Accelerators
+- Network-on-Chip (NoC)
+- Embedded Hardware
+- Communication Systems
+- Semiconductor Technology
 
 ---
 
-## Technical Writing & Content
+## Technical Writing
 
-I regularly share:
+I actively document my learning journey and share insights on:
 
-- Hardware engineering discussions
-- Semiconductor & ASIC learning
+- Digital Design
+- FPGA Development
+- Computer Architecture
+- Semiconductor Industry
+- Communication Systems
+- Engineering Concepts
 
-through:
+### Publications & Content
 
-- LinkedIn
-- Medium
-- GitHub
+- LinkedIn Articles
+- Medium Blogs
+- GitHub Project Documentation
+
+---
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-sri-vardhan-lingala/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saisrivardhanlingala)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/lingalavardhan)
 
 ---
 
-## Connect
 
-- LinkedIn:  
-  https://www.linkedin.com/in/sai-sri-vardhan-lingala/
+## GitHub Stats: ![](https://github-readme-stats.shion.dev/api?username=SAI-SRIVARDHAN-REDDY-LINGALA&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/> ![](https://streak-stats.demolab.com/?user=SAI-SRIVARDHAN-REDDY-LINGALA&theme=github_dark&hide_border=true)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SAI-SRIVARDHAN-REDDY-LINGALA&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) --- [![](https://komarev.com/ghpvc/?username=SAI-SRIVARDHAN-REDDY-LINGALA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- Medium:  
-  https://medium.com/@saisrivardhanlingala
+### Engineering Philosophy
 
-- X (Twitter):  
-  https://x.com/lingalavardhan
+> Build systems from first principles, understand the architecture, verify correctness, and bridge theory with real hardware implementation.
 
-- Email:  
-  saisrivardhanlingala@gmail.com
 
----
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-srivardhan-reddy-lingala&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=00006000"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-srivardhan-reddy-lingala&theme=transparent&background=00006000"/>
-</p>
