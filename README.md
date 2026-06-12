@@ -310,11 +310,19 @@ Built a strong base in electronics, signal processing, communication systems, se
 
 ---
 
-## 11. GitHub Trophies Section
+
+
+## 11. GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SAI-SRIVARDHAN-REDDY-LINGALA&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAI-SRIVARDHAN-REDDY-LINGALA&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAI-SRIVARDHAN-REDDY-LINGALA&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAI-SRIVARDHAN-REDDY-LINGALA&theme=github_dark" />
 
 </div>
 
